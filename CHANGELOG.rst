@@ -2,8 +2,8 @@
 Changelog for package household_objects_database_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.2 (2016-07-19)
+------------------
 * [feat] added ORK type field in DatabaseModelPose `#1 <https://github.com/ros-interactive-manipulation/household_objects_database_msgs/issues/1>`_
 * Updated maintainers
 * Contributors: Matei Ciocarlie, Dave Coleman, Isaac I.Y. Saito
